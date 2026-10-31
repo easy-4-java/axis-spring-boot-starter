@@ -560,7 +560,7 @@
         </dependency>
         <!--
         http://zoroeye.iteye.com/blog/2042884
-        <!-- https://mvnrepository.com/artifact/axis/axis-wsdl4j -->
+        https://mvnrepository.com/artifact/axis/axis-wsdl4j
         <dependency>
             <groupId>axis</groupId>
             <artifactId>axis-wsdl4j</artifactId>
